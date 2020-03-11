@@ -1,46 +1,46 @@
-<img src="./readme_img/À¯´ÏÆ¼.png" width="300px" height="300px" alt="»ç¿ëÅø"></img><br/>
-# Á¤º¹! ÇÃ¶óÀ×
+<img src="./readme_img/ìœ ë‹ˆí‹°.png" width="300px" height="300px" alt="ì‚¬ìš©íˆ´"></img><br/>
+# ì •ë³µ! í”Œë¼ìž‰
 
-À¯´ÏÆ¼¸¦ ÅëÇØ 1ÀÎÄª 3ÀÎÄª ½ÃÁ¡º¯È¯ 3d °ÔÀÓÀ» Á¦ÀÛ, Á¦ÇÑ½Ã°£¾È¿¡ ´ß ¸ó½ºÅÍ, ³¯¾Æ¿À´Â ¿î¼®À» ÇÇÇÏ°í ÃÖ´ëÇÑ ¸¹Àº °ñµå¸¦ ÃëµæÇÏ¿© °ñÀÎÁöÁ¡ µµÂøÇÏ±â
+ìœ ë‹ˆí‹°ë¥¼ í†µí•´ 1ì¸ì¹­ 3ì¸ì¹­ ì‹œì ë³€í™˜ 3d ê²Œìž„ì„ ì œìž‘, ì œí•œì‹œê°„ì•ˆì— ë‹­ ëª¬ìŠ¤í„°, ë‚ ì•„ì˜¤ëŠ” ìš´ì„ì„ í”¼í•˜ê³  ìµœëŒ€í•œ ë§Žì€ ê³¨ë“œë¥¼ ì·¨ë“í•˜ì—¬ ê³¨ì¸ì§€ì  ë„ì°©í•˜ê¸°
 
 ***
 
-# °³¹ß È¯°æ
+# ê°œë°œ í™˜ê²½
 
 * c#   
 
-* À¯´ÏÆ¼ ¹× À¯´ÏÆ¼¿¡¼Â
+* ìœ ë‹ˆí‹° ë° ìœ ë‹ˆí‹°ì—ì…‹
 
 ***
 
-# ±â´É¼Ò°³
+# ê¸°ëŠ¥ì†Œê°œ
 
-### `1. [ ¸ÞÀÎÈ­¸é]`   
+### `1. [ ë©”ì¸í™”ë©´]`   
 
 <img src="./readme_img/main.png" width="400px" height="300px" alt="add"><br/>
 
-### `2. [ Ä³¸¯ÅÍ ³¯¾Æ°¡´Â ¸ð½À]`    
+### `2. [ ìºë¦­í„° ë‚ ì•„ê°€ëŠ” ëª¨ìŠµ]`    
 
 <img src="./readme_img/fly.png" width="400px" height="300px" alt="list"><br/>
 
-### `3. [ Á¡ÇÁ¸ð¼Ç]`   
+### `3. [ ì í”„ëª¨ì…˜]`   
 
 <img src="./readme_img/jump.png" width="250px" height="500px" alt="list"><br/>
 
-### `4. [ °ÔÀÓ ½ÃÀÛ½Ã ¸Ê]`   
+### `4. [ ê²Œìž„ ì‹œìž‘ì‹œ ë§µ]`   
  
 <img src="./readme_img/start.png" width="400px" height="300px" alt="upload"><br/>
 
-### `5. [ ½Ã°£ÃÊ°ú ¹× Ã¼·Â 0  ]`    
+### `5. [ ì‹œê°„ì´ˆê³¼ ë° ì²´ë ¥ 0  ]`    
     
 <img src="./readme_img/over.png" width="400px" height="300px" alt="upload"><br/>
 
-### `6. [ ´ß ¸ó½ºÅÍ ¹× È­»êÀç ³¯¶ó¿À´Â ¸ð½À  ]`    
+### `6. [ ë‹­ ëª¬ìŠ¤í„° ë° í™”ì‚°ìž¬ ë‚ ë¼ì˜¤ëŠ” ëª¨ìŠµ  ]`    
     
 <img src="./readme_img/monster.png" width="400px" height="300px" alt="upload"><br/>
 
 ***
 
-# ÄÚµå¼Ò°³ 
+# ì½”ë“œì†Œê°œ 
 
-* [c# ºÎºÐ ](https://github.com/2jooho/unity_project_fly/tree/master/Assets/script, "c#")
+* [c# ë¶€ë¶„ ](https://github.com/2jooho/unity_project_fly/tree/master/Assets/script)
